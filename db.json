@@ -1,16 +1,31 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "firstName": "Nabilla",
+      "lastName": "Haslin",
+      "age": 30,
+      "address": "Presint 14",
+      "phoneNum": 60122345809,
+      "email": "nabilla123@gmail.com"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "firstName": "Nurill",
+      "lastName": "Haslin",
+      "age": 26,
+      "address": "'Presint 8",
+      "phoneNum": 60189012756,
+      "email": "nurill321@gmail.com"
+    },
+    {
+      "firstName": "asdsad",
+      "lastName": "",
+      "age": "",
+      "address": "",
+      "phoneNum": "",
+      "email": "",
+      "id": 3
     }
   ]
 }
